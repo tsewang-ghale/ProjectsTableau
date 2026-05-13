@@ -10,6 +10,16 @@ This repository contains Tableau workbook projects created for analytics, busine
 | `HW_2.twbx` | Bank marketing campaign analysis |
 | `MIT_5732_Final_Project_Team_5.twbx` | Sentiment-aware restaurant recommendation dashboard |
 
+## Dashboard Screenshots
+
+Screenshots or exported dashboard images can be added here after exporting views from Tableau. Recommended files:
+
+| Dashboard | Suggested image file |
+| --- | --- |
+| Real Estate Data Analysis | `screenshots/real-estate-dashboard.png` |
+| Bank Marketing Campaign Analysis | `screenshots/bank-marketing-dashboard.png` |
+| Sentiment-Aware Restaurant Recommender | `screenshots/restaurant-recommender-dashboard.png` |
+
 ## Real Estate Data Analysis
 
 This workbook explores how property characteristics affect residential sale prices. The dashboard focuses on features such as property quality, lot size, living area, basement condition, and neighborhood.
